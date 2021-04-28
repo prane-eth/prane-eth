@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my data structures skills
-- 🌱 I’m currently learning Pythonm, Data Science, and Java
-- 👯 I’m looking to collaborate on Python
-- 🤔 I’m looking for help with Python, Java
-- 💬 Ask me about Python, Data Science, Linux
+- 🔭 I’m currently working on my DSA skills
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with Career
+- 💬 Ask me about Python, Data Science, Linux, Java, DSA
 - 📫 How to reach me: vhpraneeth2001@gmail.com
 
 
