@@ -5,8 +5,8 @@
 [![Website](https://img.shields.io/badge/Website-168D5C?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/prane.eth)
 
 ### Recent work:
-- Open Source contributions: https://github.com/prane-eth/open-source_contributions
-- AI projects: https://github.com/prane-eth/AI_projects
+- Open Source contributions: [https://github.com/prane-eth/open-source_contributions](https://github.com/prane-eth/open-source_contributions/blob/main/README.md)
+- AI projects: [https://github.com/prane-eth/AI_projects](https://github.com/prane-eth/AI_projects/blob/main/README.md)
 
 
 <br>
