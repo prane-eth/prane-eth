@@ -6,7 +6,7 @@
 [![LLMs](https://img.shields.io/badge/LLMs-1A535C?style=for-the-badge&logo=openai&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=1000&pause=3000&color=00C853&center=true&vCenter=true&width=800&lines=💼+Available+for+Opportunities+and+collaborations!)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=2000&pause=3000&color=00C853&center=true&vCenter=true&width=800&lines=💼+Available+for+opportunities+and+collaborations!)]()
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
 
