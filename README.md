@@ -12,7 +12,7 @@
 
 ### Recent work:
 - Open Source contributions: [https://github.com/prane-eth/open-source_contributions](https://github.com/prane-eth/open-source_contributions/blob/main/README.md)
-- AI projects: [https://github.com/prane-eth/AI_projects](https://github.com/prane-eth/AI_projects/blob/main/README.md)
+- AI projects: https://prane-eth.github.io/AI-projects
 
 
 ### Contact:
