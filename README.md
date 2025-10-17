@@ -11,9 +11,9 @@
 
 
 ### Recent work:
-- Open Source contributions: [https://github.com/prane-eth/open-source_contributions](https://github.com/prane-eth/open-source_contributions/blob/main/README.md)
 - AI projects: https://prane-eth.github.io/AI-projects
-
+<!-- - Open Source contributions: [https://github.com/prane-eth/open-source_contributions](https://github.com/prane-eth/open-source_contributions/blob/main/README.md)
+ -->
 
 ### Contact:
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prane-eth) -->
